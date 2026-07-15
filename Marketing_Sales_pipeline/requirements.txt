@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+faker
+requests
+python-dotenv
+pydantic
+minio
+pyarrow
+sqlalchemy
+psycopg2-binary
